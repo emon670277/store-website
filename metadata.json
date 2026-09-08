@@ -1,0 +1,6 @@
+{
+  "name": "isaiyaa.bd - Premium Digital Store",
+  "description": "isaiyaa.bd - Trusted digital store for Premium VPN, Accounts, Visa & Mastercard, Premium Apps and Online Courses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
